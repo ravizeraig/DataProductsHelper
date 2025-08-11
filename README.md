@@ -9,7 +9,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
 [![python-dotenv](https://img.shields.io/badge/python--dotenv-DDDDDD?style=for-the-badge&logo=python&logoColor=white)](https://pypi.org/project/python-dotenv/)
-[![Status do Projeto](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)](https://github.com/SEU_USUARIO/SEU_REPOSITORIO)
+[![Status do Projeto](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)](https://github.com/ravizeraig/DataProductsHelper)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 Este projeto apresenta um dashboard interativo desenvolvido no Power BI para analisar o desempenho de vendas de uma empresa, com foco na evolução da receita, performance de produtos, desempenho de vendedores e distribuição regional das vendas.
