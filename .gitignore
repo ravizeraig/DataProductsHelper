@@ -1,0 +1,36 @@
+# Ignorar o ambiente virtual Python
+venv/
+.venv/ # Caso use .venv ao invés de venv
+
+# Ignorar arquivos de cache e compilação do Python
+__pycache__/
+*.pyc
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# Ignorar arquivos específicos do IDE (PyCharm)
+.idea/
+*.iml
+
+# Ignorar variáveis de ambiente (CRÍTICO para segurança!)
+.env
+
+# Ignorar arquivos de dados gerados que não são essenciais para o controle de versão
+# (Ex: se os dados de 'output/' podem ser facilmente gerados pelos scripts)
+# Se os arquivos em 'data/output/' forem grandes ou gerados automaticamente e você NÃO quiser versioná-los:
+#data/output/
+
+# Ignorar logs
+*.log
+logs/
+
+# Ignorar arquivos do Power BI que podem ser grandes ou contêm caminhos locais temporários
+# O .pbix principal você QUER versionar, então NÃO o adicione aqui.
+# Mas se houver arquivos de backup ou temp, pode ignorar
+*.pbix.temp
+*.pbix.backup
+
+# Ignorar outros arquivos temporários ou de sistema
+.DS_Store # macOS
+Thumbs.db # Windows

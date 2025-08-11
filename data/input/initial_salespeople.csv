@@ -1,0 +1,116 @@
+id,nome_vendedor,email,telefone
+1,Ana Paula Santos,ana.paula@exemplo.com,(11) 98765-4321
+2,Carlos Eduardo Lima,carlos.lima@exemplo.com,(21) 91234-5678
+3,Mariana Oliveira,mariana.o@exemplo.com,(31) 99876-1234
+4,Roberto Almeida,roberto.a@exemplo.com,(41) 98765-8765
+5,Juliana Pereira,juliana.p@exemplo.com,(51) 91234-0987
+6,Fernando Rodrigues,fernando.r@exemplo.com,(61) 99876-5432
+7,Camila Souza,camila.s@exemplo.com,(71) 98765-0123
+8,Gustavo Costa,gustavo.c@exemplo.com,(81) 91234-6789
+9,Patrícia Gomes,patricia.g@exemplo.com,(91) 99876-3456
+10,André Rocha,andre.r@exemplo.com,(12) 98765-9876
+11,Larissa Fernandes,larissa.f@exemplo.com,(13) 91234-3210
+12,Rafael Mendes,rafael.m@exemplo.com,(14) 99876-6789
+13,Beatriz Vieira,beatriz.v@exemplo.com,(15) 98765-1011
+14,Felipe Castro,felipe.c@exemplo.com,(16) 91234-2121
+15,Isabela Dias,isabela.d@exemplo.com,(17) 99876-8765
+16,Ricardo Martins,ricardo.m@exemplo.com,(18) 98765-3456
+17,Vitória Nunes,vitoria.n@exemplo.com,(19) 91234-5678
+18,Eduardo Silva,eduardo.s@exemplo.com,(22) 99876-1122
+19,Carolina Lima,carolina.l@exemplo.com,(24) 98765-3344
+20,Diego Costa,diego.c@exemplo.com,(27) 91234-5566
+21,Amanda Ribeiro,amanda.r@exemplo.com,(28) 99876-7788
+22,Bruno Alves,bruno.a@exemplo.com,(33) 98765-9900
+23,Gabrielle Brito,gabrielle.b@exemplo.com,(34) 91234-0011
+24,Marcelo Santos,marcelo.s@exemplo.com,(35) 99876-2233
+25,Leticia Rocha,leticia.r@exemplo.com,(37) 98765-4455
+26,Pedro Henrique Costa,pedro.h@exemplo.com,(11) 90000-0001
+27,Ana Clara Santos,ana.clara@exemplo.com,(11) 90000-0002
+28,João Paulo Oliveira,joao.p@exemplo.com,(11) 90000-0003
+29,Maria Eduarda Pereira,maria.e@exemplo.com,(11) 90000-0004
+30,Guilherme Almeida,guilherme.a@exemplo.com,(11) 90000-0005
+31,Laura Rodrigues,laura.r@exemplo.com,(11) 90000-0006
+32,Felipe Cardoso,felipe.cardoso@exemplo.com,(11) 90000-0007
+33,Sophia Guedes,sophia.g@exemplo.com,(11) 90000-0008
+34,Lucas Ferreira,lucas.f@exemplo.com,(11) 90000-0009
+35,Manuela Silveira,manuela.s@exemplo.com,(11) 90000-0010
+36,Daniel Ribeiro,daniel.rib@exemplo.com,(11) 90000-0011
+37,Giovana Martins,giovana.m@exemplo.com,(11) 90000-0012
+38,Matheus Lima,matheus.l@exemplo.com,(11) 90000-0013
+39,Alice Fernandes,alice.f@exemplo.com,(11) 90000-0014
+40,Bernardo Costa,bernardo.c@exemplo.com,(11) 90000-0015
+41,Julia Souza,julia.s@exemplo.com,(11) 90000-0016
+42,Gabriel Santos,gabriel.s@exemplo.com,(11) 90000-0017
+43,Luiza Oliveira,luiza.o@exemplo.com,(11) 90000-0018
+44,Arthur Pereira,arthur.p@exemplo.com,(11) 90000-0019
+45,Helena Rodrigues,helena.r@exemplo.com,(11) 90000-0020
+46,Davi Almeida,davi.a@exemplo.com,(11) 90000-0021
+47,Lorena Lima,lorena.l@exemplo.com,(11) 90000-0022
+48,Murilo Costa,murilo.c@exemplo.com,(11) 90000-0023
+49,Mariana Vieira,mariana.v@exemplo.com,(11) 90000-0024
+50,Enzo Fernandes,enzo.f@exemplo.com,(11) 90000-0025
+51,Valentina Gomes,valentina.g@exemplo.com,(11) 90000-0026
+52,Miguel Dias,miguel.d@exemplo.com,(11) 90000-0027
+53,Sofia Mendes,sofia.m@exemplo.com,(11) 90000-0028
+54,Noah Ribeiro,noah.r@exemplo.com,(11) 90000-0029
+55,Lara Alcantara,lara.a@exemplo.com,(11) 90000-0030
+56,Heitor Silveira,heitor.s@exemplo.com,(11) 90000-0031
+57,Laís Guedes,lais.g@exemplo.com,(11) 90000-0032
+58,Theo Campos,theo.c@exemplo.com,(11) 90000-0033
+59,Isadora Barreto,isadora.b@exemplo.com,(11) 90000-0034
+60,João Victor Rocha,joao.v@exemplo.com,(11) 90000-0035
+61,Alice Dias,alice.dias@exemplo.com,(11) 90000-0036
+62,Benício Mendes,benicio.m@exemplo.com,(11) 90000-0037
+63,Cecília Castro,cecilia.c@exemplo.com,(11) 90000-0038
+64,Davi Lima,davi.l@exemplo.com,(11) 90000-0039
+65,Emanuelly Souza,emanuelly.s@exemplo.com,(11) 90000-0040
+66,Esther Santos,esther.s@exemplo.com,(11) 90000-0041
+67,Felipe Vieira,felipe.v@exemplo.com,(11) 90000-0042
+68,Giovanna Costa,giovanna.c@exemplo.com,(11) 90000-0043
+69,Heitor Silva,heitor.silva@exemplo.com,(11) 90000-0044
+70,Isabelly Nunes,isabelly.n@exemplo.com,(11) 90000-0045
+71,Joaquim Oliveira,joaquim.o@exemplo.com,(11) 90000-0046
+72,Laura Almeida,laura.almeida@exemplo.com,(11) 90000-0047
+73,Lucas Pereira,lucas.p@exemplo.com,(11) 90000-0048
+74,Manuela Rodrigues,manuela.r@exemplo.com,(11) 90000-0049
+75,Miguel Fernandes,miguel.f@exemplo.com,(11) 90000-0050
+76,Nicole Gomes,nicole.g@exemplo.com,(11) 90000-0051
+77,Pedro Dias,pedro.dias@exemplo.com,(11) 90000-0052
+78,Rafaela Martins,rafaela.m@exemplo.com,(11) 90000-0053
+79,Samuel Castro,samuel.c@exemplo.com,(11) 90000-0054
+80,Sophia Oliveira,sophia.o@exemplo.com,(11) 90000-0055
+81,Theo Pereira,theo.p@exemplo.com,(11) 90000-0056
+82,Valentina Almeida,valentina.a@exemplo.com,(11) 90000-0057
+83,Victor Rodrigues,victor.r@exemplo.com,(11) 90000-0058
+84,Yasmin Fernandes,yasmin.f@exemplo.com,(11) 90000-0059
+85,Zara Gomes,zara.g@exemplo.com,(11) 90000-0060
+86,Artur Silva,artur.s@exemplo.com,(11) 90000-0061
+87,Cecília Lima,cecilia.l@exemplo.com,(11) 90000-0062
+88,Davi Costa,davi.c@exemplo.com,(11) 90000-0063
+89,Helena Souza,helena.s@exemplo.com,(11) 90000-0064
+90,João Gabriel Santos,joao.g@exemplo.com,(11) 90000-0065
+91,Laura Oliveira,laura.o@exemplo.com,(11) 90000-0066
+92,Lucas Almeida,lucas.a@exemplo.com,(11) 90000-0067
+93,Maria Clara Pereira,maria.c@exemplo.com,(11) 90000-0068
+94,Pedro Henrique Rodrigues,pedro.h.r@exemplo.com,(11) 90000-0069
+95,Sofia Fernandes,sofia.f@exemplo.com,(11) 90000-0070
+96,Theo Gomes,theo.g@exemplo.com,(11) 90000-0071
+97,Valentina Dias,valentina.d@exemplo.com,(11) 90000-0072
+98,Victor Martins,victor.m@exemplo.com,(11) 90000-0073
+99,Yasmin Castro,yasmin.c@exemplo.com,(11) 90000-0074
+100,Alexandre Ferreira,alexandre.f@exemplo.com,(11) 90000-0075
+101,Bruna Lima,bruna.l@exemplo.com,(11) 90000-0076
+102,Caio Mendes,caio.m@exemplo.com,(11) 90000-0077
+103,Denise Ramos,denise.r@exemplo.com,(11) 90000-0078
+104,Elias Barbosa,elias.b@exemplo.com,(11) 90000-0079
+105,Fernanda Silveira,fernanda.s@exemplo.com,(11) 90000-0080
+106,Guilherme Alves,guilherme.alves@exemplo.com,(11) 90000-0081
+107,Heloísa Britto,heloisa.b@exemplo.com,(11) 90000-0082
+108,Igor Carvalho,igor.c@exemplo.com,(11) 90000-0083
+109,Janaína Dantas,janaina.d@exemplo.com,(11) 90000-0084
+110,Kleber Esteves,kleber.e@exemplo.com,(11) 90000-0085
+111,Lorena França,lorena.f@exemplo.com,(11) 90000-0086
+112,Márcio Guedes,marcio.g@exemplo.com,(11) 90000-0087
+113,Nina Horta,nina.h@exemplo.com,(11) 90000-0088
+114,Otávio Ivo,otavio.i@exemplo.com,(11) 90000-0089
+115,Paula Jardim,paula.j@exemplo.com,(11) 90000-0090
