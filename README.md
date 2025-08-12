@@ -121,6 +121,10 @@ Certifique-se de ter instalado:
     * Abra o arquivo `dashboard_vendas.pbix` com o Power BI Desktop.
     * O dashboard está configurado para se conectar aos arquivos CSV limpos localizados em `data/output/`. Se houver qualquer problema de conexão de dados no Power BI, você pode precisar atualizar as origens de dados dentro do Power BI Desktop.
 
+## 📊 Dados do Projeto
+
+Para este projeto, foi criada uma base de dados PostgreSQL do zero, que foi populada integralmente com **dados simulados**. Estes dados foram gerados com o propósito de demonstrar a robustez da pipeline de ETL e a capacidade de análise e visualização.
+
 ## Tecnologias Utilizadas
 
 As principais ferramentas e linguagens utilizadas no desenvolvimento deste projeto incluem:
@@ -129,7 +133,9 @@ As principais ferramentas e linguagens utilizadas no desenvolvimento deste proje
 * **Pandas**: Biblioteca para manipulação e análise de dados.
 * **Psycopg2-binary**: Adaptador PostgreSQL para Python.
 * **Python-dotenv**: Para gerenciamento seguro de variáveis de ambiente.
-* **PostgreSQL**: Sistema de gerenciamento de banco de dados relacional.
+* **PostgreSQL:** Banco de dados relacional utilizado para armazenar os dados processados.
+    * A estrutura do banco de dados foi criada do zero e populada com **dados simulados**, gerados exclusivamente para fins de demonstração da pipeline e da funcionalidade do projeto.
+
 * **Jupyter Notebook**: Para análise exploratória de dados (EDA) e prototipagem.
 * **Matplotlib, Seaborn, Plotly**: Bibliotecas para visualização de dados.
 * **Power BI Desktop**: Ferramenta de Business Intelligence para criação do dashboard interativo.
